@@ -1,6 +1,6 @@
 # ocrMODEL
 
-A new Flutter project.
+This is a basic UI interface where you can upload an image and the text will be shown as output using Optical Character Recognition.
 
 ## Getting Started
 
